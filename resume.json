@@ -6,7 +6,7 @@
     "awards": ""
   },
   "basics": {
-    "name": "Muhammad",
+    "name": "Muhammad Alvi",
     "email": "muhammadalvi24@gmail.com",
     "phone": "6477053925",
     "location": {
@@ -27,15 +27,17 @@
   "work": [
     {
       "company": "Amazon ",
-      "location": "Remote",
+      "location": "Toronto, ON",
       "position": "Software Engineer",
       "website": "",
       "startDate": "Jan 2022",
       "endDate": "Present",
       "highlights": [
-        "sdads",
-        "dsadasda",
-        "dadsa"
+        "Introduced a time and byte based cutoff for long running tasks causing duplicate computation, reducing expenses by 66%",
+        "Built an autonomous content sampler that gives customer's probability of sensitive data discovery per file, increasing job creation by 13%",
+        "Implemented a security testing worflow to CI/CD pipeline, maintaining a rigorous standard of authorization and authentication verification",
+        "Designed an allow listing service that allows customers to provide custom regex to whitelist from sensitive data detections",
+        
       ]
     },
     {
