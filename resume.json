@@ -33,11 +33,13 @@
       "startDate": "Jan 2022",
       "endDate": "Present",
       "highlights": [
-        "Introduced a time and byte based cutoff for long running tasks causing duplicate computation, reducing expenses by 66%",
-        "Built an autonomous content sampler that gives customer's probability of sensitive data discovery per file, increasing job creation by 13%",
-        "Implemented a security testing worflow to CI/CD pipeline, maintaining a rigorous standard of authorization and authentication verification",
-        "Designed an allow listing service that allows customers to provide custom regex to whitelist from sensitive data detections",
-        
+        "Containerized data classifier utilizing AWS ECS with the migration from AWS EC2 fleet lowering computing costs by 26%",
+        "Implemented a time and byte based cutoff for problematic long running tasks which reduced expenses by 17%",
+        "Built an autonomous content sampler for AWS S3 buckets that drove customer usage upwards, increasing revenue by 34%",
+        "Ran Load Tests to quantify performance thresholds which provied stakeholds crucial insight to forumlate Macie's pricing calculation for content sampling service",
+        "Lead a campaign to maintain an excellent standard of operational hygiene by creating command line tools to assist in ticket analysis and mitigation",
+        "Attached a security testing approval worflow to CI/CD pipeline, maintaining a rigorous standard of authorization and authentication testing",
+        "Designed an allow listing service that allows customers to provide custom regex to whitelist from sensitive data detections, increasing customer usage"
       ]
     },
     {
@@ -57,7 +59,8 @@
     {
       "highlights": [
         "Designed a web bases test suite for 3 test environments using React and Spring, leading to 21% faster testing",
-        "Optimized API to increase time-to-first-byte by 6% 􀀀 Developed a simulator for testing and monitoring multiple API’s providing 78% code coverage",
+        "Optimized API to increase time-to-first-byte by 6%",
+        "Developed a simulator for testing and monitoring multiple APIs providing 78% code coverage",
         "Automated reformatting of test data using Python scripts 􀀀 Deployed a Java-based international money transfer application",
         "Built a dashboard to track API metrics, invoke alarms, and provide insight to business owners for future improvements."
       ],
